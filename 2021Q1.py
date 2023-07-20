@@ -66,12 +66,15 @@
 #         return fact1
         
 # # fact(x)
-# list=[1]
+# # list=[1]
+# j=1
 # for i in range(1, n+1):
+    
 #     k = (x**i)/fact(i)
-#     list.append(k)
-
-# print(sum(list))
+#     # list.append(k)
+#     j+=k
+# # print(sum(list))
+# print(j)
 
 # #E
 
